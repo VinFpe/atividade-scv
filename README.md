@@ -15,4 +15,11 @@
         </a>
     </td>
   </tr>
+  <tr>
+    <td>Vinicius<td>
+    <td>Petrolina</td>
+    <td>
+      <a href="https://github.com/VinFpe">github.com/VinFpe</a>
+    </td>
+  </tr>
 </table>
